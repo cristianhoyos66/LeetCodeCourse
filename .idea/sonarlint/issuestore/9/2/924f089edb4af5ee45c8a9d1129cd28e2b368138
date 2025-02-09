@@ -1,6 +1,0 @@
-
-0
-java:S1220""Move this file to a named package.
-E	java:S106"+Replace this use of System.out by a logger.(Þæ‹ºùÿÿÿÿ
-m
-java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÀàÍöùÿÿÿÿ

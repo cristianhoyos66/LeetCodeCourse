@@ -1,13 +1,0 @@
-
-0
-java:S1220""Move this file to a named package.
-S	java:S106	"9Replace this use of System.out or System.err by a logger.(î…Ñ¨ùÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(¦µàº
-E
-java:S11970"*Move the array designators [] to the type.(šÏà¡ûÿÿÿÿ
-@
-java:S11972"*Move the array designators [] to the type.(ÛüØ÷
-O
-java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8›ž¡åÉ0
-Y
-java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8œž¡åÉ0
